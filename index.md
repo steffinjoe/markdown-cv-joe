@@ -13,11 +13,20 @@ Senior Full Stack Developer
 
 ## Work Experience
 
+### Hexaware
+-> _Chennai, India_
+
+**Java Cloud Native Lead**
+-> _December 2023 to Present_
+
+- Successfully orchestrated the migration of legacy insurance solutions to a cloud-based architecture, optimizing operational efficiency and scalability.
+- Implemented robust cloud infrastructure for an insurance company, enhancing reliability, security, and performance while reducing operational costs.
+
 ### Freshprints
 -> _Hyderabad (Remote), India_
 
 **Senior Full Stack Developer - Level 2**
--> _March 2023 to Present_
+-> _March 2023 to December 2023_
 
 - Improved and expanded the existing features of the apparel firm's platform to enhance the user experience.
 - Implemented features aimed at increasing user engagement and retention among college students interested in entrepreneurship.
